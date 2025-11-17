@@ -1,0 +1,29 @@
+# Test files and directories
+test_data/
+test_extracted/
+test_edge_cases/
+test_edge_cases_extracted/
+test_output.txt
+test_output_new.txt
+test_edge_cases.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Packed output files (optional - uncomment if you want to ignore all packed files)
+# *.txt
